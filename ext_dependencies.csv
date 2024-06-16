@@ -1,0 +1,10 @@
+PROGRAM_NAME,ALIAS,PROGRAM_VERSION,PROGRAM_INSTALL
+docker,,,
+just,justfile,,"cargo install just"
+mysql,"mysql cli client",,"brew install mysql"
+nc,netcat,,
+recolor,,,"cargo install recolor"
+rg,ripgrep,,"cargo install ripgrep"
+sqlx-cli,,,"cargo install sqlx-cli"
+xsv,,,"cargo install xsv"
+hyperfine,,,"cargo install hyperfine"
